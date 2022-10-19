@@ -4,7 +4,7 @@ Created on Tue Feb 15 22:52:50 2022
 
 @author: dell
 """
-#complete pandas
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
